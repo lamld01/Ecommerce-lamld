@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mos-client-seller-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mos-cms-seller-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mos-cms-store-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mos-user-product-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mos-user-profile-service/mos-user-profile-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mos-user-store-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mos-user-voucher-service" vcs="Git" />
+  </component>
+</project>

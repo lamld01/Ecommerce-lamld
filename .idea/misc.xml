@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/mos-cms-store-service/pom.xml" />
+        <option value="$PROJECT_DIR$/mos-cms-seller-service/pom.xml" />
+        <option value="$PROJECT_DIR$/mos-user-store-service/pom.xml" />
+        <option value="$PROJECT_DIR$/mos-user-product-service/pom.xml" />
+        <option value="$PROJECT_DIR$/mos-user-profile-service/mos-user-profile-service/pom.xml" />
+        <option value="$PROJECT_DIR$/mos-user-voucher-service/pom.xml" />
+        <option value="$PROJECT_DIR$/mos-client-seller-service/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="openjdk-21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
